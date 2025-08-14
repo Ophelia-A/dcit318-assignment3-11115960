@@ -1,0 +1,15 @@
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q2_HealthSystem\bin\Debug\net8.0\Q2_HealthSystem.exe
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q2_HealthSystem\bin\Debug\net8.0\Q2_HealthSystem.deps.json
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q2_HealthSystem\bin\Debug\net8.0\Q2_HealthSystem.runtimeconfig.json
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q2_HealthSystem\bin\Debug\net8.0\Q2_HealthSystem.dll
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q2_HealthSystem\bin\Debug\net8.0\Q2_HealthSystem.pdb
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q2_HealthSystem\obj\Debug\net8.0\Q2_HealthSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q2_HealthSystem\obj\Debug\net8.0\Q2_HealthSystem.AssemblyInfoInputs.cache
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q2_HealthSystem\obj\Debug\net8.0\Q2_HealthSystem.AssemblyInfo.cs
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q2_HealthSystem\obj\Debug\net8.0\Q2_HealthSystem.csproj.CoreCompileInputs.cache
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q2_HealthSystem\obj\Debug\net8.0\Q2_HealthSystem.sourcelink.json
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q2_HealthSystem\obj\Debug\net8.0\Q2_HealthSystem.dll
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q2_HealthSystem\obj\Debug\net8.0\refint\Q2_HealthSystem.dll
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q2_HealthSystem\obj\Debug\net8.0\Q2_HealthSystem.pdb
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q2_HealthSystem\obj\Debug\net8.0\Q2_HealthSystem.genruntimeconfig.cache
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q2_HealthSystem\obj\Debug\net8.0\ref\Q2_HealthSystem.dll
