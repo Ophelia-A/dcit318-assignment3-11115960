@@ -1,0 +1,15 @@
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q3_Warehouse\bin\Debug\net8.0\Q3_Warehouse.exe
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q3_Warehouse\bin\Debug\net8.0\Q3_Warehouse.deps.json
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q3_Warehouse\bin\Debug\net8.0\Q3_Warehouse.runtimeconfig.json
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q3_Warehouse\bin\Debug\net8.0\Q3_Warehouse.dll
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q3_Warehouse\bin\Debug\net8.0\Q3_Warehouse.pdb
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q3_Warehouse\obj\Debug\net8.0\Q3_Warehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q3_Warehouse\obj\Debug\net8.0\Q3_Warehouse.AssemblyInfoInputs.cache
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q3_Warehouse\obj\Debug\net8.0\Q3_Warehouse.AssemblyInfo.cs
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q3_Warehouse\obj\Debug\net8.0\Q3_Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q3_Warehouse\obj\Debug\net8.0\Q3_Warehouse.sourcelink.json
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q3_Warehouse\obj\Debug\net8.0\Q3_Warehouse.dll
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q3_Warehouse\obj\Debug\net8.0\refint\Q3_Warehouse.dll
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q3_Warehouse\obj\Debug\net8.0\Q3_Warehouse.pdb
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q3_Warehouse\obj\Debug\net8.0\Q3_Warehouse.genruntimeconfig.cache
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q3_Warehouse\obj\Debug\net8.0\ref\Q3_Warehouse.dll
