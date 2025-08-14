@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q3_Warehouse", "Q3_Warehous
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q4_GradingFileIO", "Q4_GradingFileIO\Q4_GradingFileIO.csproj", "{FC53494F-6FA5-4E6A-8C5D-F1C8477FCA55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q5_InventoryRecords", "Q5_InventoryRecords\Q5_InventoryRecords.csproj", "{E323167A-E301-44D9-BE8D-DB83555F155A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{FC53494F-6FA5-4E6A-8C5D-F1C8477FCA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC53494F-6FA5-4E6A-8C5D-F1C8477FCA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC53494F-6FA5-4E6A-8C5D-F1C8477FCA55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E323167A-E301-44D9-BE8D-DB83555F155A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E323167A-E301-44D9-BE8D-DB83555F155A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E323167A-E301-44D9-BE8D-DB83555F155A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E323167A-E301-44D9-BE8D-DB83555F155A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

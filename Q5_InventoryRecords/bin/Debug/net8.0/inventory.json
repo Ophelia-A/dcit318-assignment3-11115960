@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Dish Soap 750ml",
+    "Quantity": 24,
+    "DateAdded": "2025-08-14T00:00:00-02:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Floor Cleaner 1L",
+    "Quantity": 12,
+    "DateAdded": "2025-08-13T00:00:00-02:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Bleach 500ml",
+    "Quantity": 30,
+    "DateAdded": "2025-08-11T00:00:00-02:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Sponge Pack (5x)",
+    "Quantity": 18,
+    "DateAdded": "2025-08-07T00:00:00-02:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Air Freshener 300ml",
+    "Quantity": 10,
+    "DateAdded": "2025-08-04T00:00:00-02:00"
+  }
+]

@@ -1,0 +1,15 @@
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q5_InventoryRecords\obj\Debug\net8.0\Q5_InventoryRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q5_InventoryRecords\obj\Debug\net8.0\Q5_InventoryRecords.AssemblyInfoInputs.cache
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q5_InventoryRecords\obj\Debug\net8.0\Q5_InventoryRecords.AssemblyInfo.cs
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q5_InventoryRecords\obj\Debug\net8.0\Q5_InventoryRecords.csproj.CoreCompileInputs.cache
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q5_InventoryRecords\obj\Debug\net8.0\Q5_InventoryRecords.sourcelink.json
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q5_InventoryRecords\bin\Debug\net8.0\Q5_InventoryRecords.exe
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q5_InventoryRecords\bin\Debug\net8.0\Q5_InventoryRecords.deps.json
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q5_InventoryRecords\bin\Debug\net8.0\Q5_InventoryRecords.runtimeconfig.json
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q5_InventoryRecords\bin\Debug\net8.0\Q5_InventoryRecords.dll
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q5_InventoryRecords\bin\Debug\net8.0\Q5_InventoryRecords.pdb
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q5_InventoryRecords\obj\Debug\net8.0\Q5_InventoryRecords.dll
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q5_InventoryRecords\obj\Debug\net8.0\refint\Q5_InventoryRecords.dll
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q5_InventoryRecords\obj\Debug\net8.0\Q5_InventoryRecords.pdb
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q5_InventoryRecords\obj\Debug\net8.0\Q5_InventoryRecords.genruntimeconfig.cache
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q5_InventoryRecords\obj\Debug\net8.0\ref\Q5_InventoryRecords.dll
