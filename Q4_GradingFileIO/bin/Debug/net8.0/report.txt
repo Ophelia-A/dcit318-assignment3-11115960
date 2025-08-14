@@ -1,0 +1,4 @@
+Rico Lewis (ID: 101): Score = 84, Grade = A
+Kwame Nkrumah (ID: 102): Score = 73, Grade = B
+Erling Haaland (ID: 103): Score = 59, Grade = D
+Ryan Cherki (ID: 104): Score = 41, Grade = F

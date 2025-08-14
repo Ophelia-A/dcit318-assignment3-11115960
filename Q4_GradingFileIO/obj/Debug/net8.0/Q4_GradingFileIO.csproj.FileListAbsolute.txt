@@ -1,0 +1,15 @@
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q4_GradingFileIO\bin\Debug\net8.0\Q4_GradingFileIO.exe
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q4_GradingFileIO\bin\Debug\net8.0\Q4_GradingFileIO.deps.json
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q4_GradingFileIO\bin\Debug\net8.0\Q4_GradingFileIO.runtimeconfig.json
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q4_GradingFileIO\bin\Debug\net8.0\Q4_GradingFileIO.dll
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q4_GradingFileIO\bin\Debug\net8.0\Q4_GradingFileIO.pdb
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q4_GradingFileIO\obj\Debug\net8.0\Q4_GradingFileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q4_GradingFileIO\obj\Debug\net8.0\Q4_GradingFileIO.AssemblyInfoInputs.cache
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q4_GradingFileIO\obj\Debug\net8.0\Q4_GradingFileIO.AssemblyInfo.cs
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q4_GradingFileIO\obj\Debug\net8.0\Q4_GradingFileIO.csproj.CoreCompileInputs.cache
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q4_GradingFileIO\obj\Debug\net8.0\Q4_GradingFileIO.sourcelink.json
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q4_GradingFileIO\obj\Debug\net8.0\Q4_GradingFileIO.dll
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q4_GradingFileIO\obj\Debug\net8.0\refint\Q4_GradingFileIO.dll
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q4_GradingFileIO\obj\Debug\net8.0\Q4_GradingFileIO.pdb
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q4_GradingFileIO\obj\Debug\net8.0\Q4_GradingFileIO.genruntimeconfig.cache
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q4_GradingFileIO\obj\Debug\net8.0\ref\Q4_GradingFileIO.dll
