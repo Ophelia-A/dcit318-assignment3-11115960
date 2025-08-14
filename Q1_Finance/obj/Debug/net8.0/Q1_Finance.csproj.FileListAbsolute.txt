@@ -1,0 +1,14 @@
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q1_Finance\bin\Debug\net8.0\Q1_Finance.exe
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q1_Finance\bin\Debug\net8.0\Q1_Finance.deps.json
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q1_Finance\bin\Debug\net8.0\Q1_Finance.runtimeconfig.json
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q1_Finance\bin\Debug\net8.0\Q1_Finance.dll
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q1_Finance\bin\Debug\net8.0\Q1_Finance.pdb
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q1_Finance\obj\Debug\net8.0\Q1_Finance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q1_Finance\obj\Debug\net8.0\Q1_Finance.AssemblyInfoInputs.cache
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q1_Finance\obj\Debug\net8.0\Q1_Finance.AssemblyInfo.cs
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q1_Finance\obj\Debug\net8.0\Q1_Finance.csproj.CoreCompileInputs.cache
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q1_Finance\obj\Debug\net8.0\Q1_Finance.dll
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q1_Finance\obj\Debug\net8.0\refint\Q1_Finance.dll
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q1_Finance\obj\Debug\net8.0\Q1_Finance.pdb
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q1_Finance\obj\Debug\net8.0\Q1_Finance.genruntimeconfig.cache
+C:\Users\vaio\Desktop\dcit318-assignment3-11115960\Q1_Finance\obj\Debug\net8.0\ref\Q1_Finance.dll
